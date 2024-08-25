@@ -4,7 +4,7 @@ A custom Mario model with skinning (connected limbs) and a reduced polygon count
 
 ## Versions
 - Blender 3.2+
-- Fast64 2.2.2
+- Fast64 2.3.0
 
 ## Credits
 - InTheBeef

@@ -5,7 +5,7 @@ The basic Mario model from SM64, does not include the LoDs.
 
 ## Versions
 - Blender 3.2+
-- Fast64 2.2.2
+- Fast64 2.3.0
 
 ## Credits
 - [kurethedead](https://github.com/kurethedead): For the original import and maintaining the model across new versions
